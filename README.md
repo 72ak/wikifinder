@@ -1,6 +1,9 @@
 # wikifinder
 link two wikipedia pages together
 
-##how to use
-download python file
-run
+![Preview](./preview.png)
+ 
+## how to use
+1. download python file
+
+2. run
